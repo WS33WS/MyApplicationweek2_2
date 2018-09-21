@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application week2</string>
+    <string name="add1">+3 POINTS</string>
+    <string name="add2">+2 POINTS</string>
+    <string name="add3">FREE THROW</string>
+    <string name="btn_reset">RESET</string>
+</resources>
